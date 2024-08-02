@@ -1,0 +1,15 @@
+C:\Users\thieu\source\repos\BTVN\BTVN\bin\Debug\BTVN.exe.config
+C:\Users\thieu\source\repos\BTVN\BTVN\bin\Debug\BTVN.exe
+C:\Users\thieu\source\repos\BTVN\BTVN\bin\Debug\BTVN.pdb
+C:\Users\thieu\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.AssemblyReference.cache
+C:\Users\thieu\source\repos\BTVN\BTVN\obj\Debug\BTVN.Form1.resources
+C:\Users\thieu\source\repos\BTVN\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+C:\Users\thieu\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.GenerateResource.cache
+C:\Users\thieu\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.CoreCompileInputs.cache
+C:\Users\thieu\source\repos\BTVN\BTVN\obj\Debug\BTVN.exe
+C:\Users\thieu\source\repos\BTVN\BTVN\obj\Debug\BTVN.pdb
+C:\Users\thieu\source\repos\BTVN\BTVN\bin\Debug\EntityFramework.dll
+C:\Users\thieu\source\repos\BTVN\BTVN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thieu\source\repos\BTVN\BTVN\bin\Debug\EntityFramework.xml
+C:\Users\thieu\source\repos\BTVN\BTVN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thieu\source\repos\BTVN\BTVN\obj\Debug\BTVN.csproj.Up2Date
