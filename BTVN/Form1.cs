@@ -119,7 +119,7 @@ namespace BTVN
             }
             else
 
-            if ((txtMssv.Text.ToString().Length != 10) || !int.TryParse(txtMssv.Text, out int result))
+            if ((txtMssv.Text.ToString().Length != 10) )
             {
                 MessageBox.Show("Mã số sinh viên phải có 10 kí tự số!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
@@ -225,7 +225,11 @@ namespace BTVN
         {
             foreach (DataGridViewRow row in dataGridView1.Rows)
             {
-                if(row.Cells["clMssv"].Value.ToString() == studentId)
+                if (row.Cells["clMssv"].Value == null)
+                {
+                    continue;
+                }
+                if (row.Cells["clMssv"].Value.ToString() == studentId)
                 {
                     return true;
                 }
